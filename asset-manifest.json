@@ -1,26 +1,26 @@
 {
   "files": {
-    "main.css": "/swapi/static/css/main.e5f74165.chunk.css",
-    "main.js": "/swapi/static/js/main.44dd49d3.chunk.js",
-    "main.js.map": "/swapi/static/js/main.44dd49d3.chunk.js.map",
-    "runtime-main.js": "/swapi/static/js/runtime-main.60e0a61e.js",
-    "runtime-main.js.map": "/swapi/static/js/runtime-main.60e0a61e.js.map",
-    "static/css/2.6d5d4ffc.chunk.css": "/swapi/static/css/2.6d5d4ffc.chunk.css",
-    "static/js/2.a54a7b66.chunk.js": "/swapi/static/js/2.a54a7b66.chunk.js",
-    "static/js/2.a54a7b66.chunk.js.map": "/swapi/static/js/2.a54a7b66.chunk.js.map",
-    "index.html": "/swapi/index.html",
-    "precache-manifest.d3bca773df601bc06135e2cbfeebd166.js": "/swapi/precache-manifest.d3bca773df601bc06135e2cbfeebd166.js",
-    "service-worker.js": "/swapi/service-worker.js",
-    "static/css/2.6d5d4ffc.chunk.css.map": "/swapi/static/css/2.6d5d4ffc.chunk.css.map",
-    "static/css/main.e5f74165.chunk.css.map": "/swapi/static/css/main.e5f74165.chunk.css.map",
-    "static/js/2.a54a7b66.chunk.js.LICENSE.txt": "/swapi/static/js/2.a54a7b66.chunk.js.LICENSE.txt",
-    "static/media/semantic.min.css": "/swapi/static/media/outline-icons.ef60a4f6.woff"
+    "main.css": "/swapi.git/static/css/main.e5f74165.chunk.css",
+    "main.js": "/swapi.git/static/js/main.798c01e4.chunk.js",
+    "main.js.map": "/swapi.git/static/js/main.798c01e4.chunk.js.map",
+    "runtime-main.js": "/swapi.git/static/js/runtime-main.a145e514.js",
+    "runtime-main.js.map": "/swapi.git/static/js/runtime-main.a145e514.js.map",
+    "static/css/2.52f4adf8.chunk.css": "/swapi.git/static/css/2.52f4adf8.chunk.css",
+    "static/js/2.a54a7b66.chunk.js": "/swapi.git/static/js/2.a54a7b66.chunk.js",
+    "static/js/2.a54a7b66.chunk.js.map": "/swapi.git/static/js/2.a54a7b66.chunk.js.map",
+    "index.html": "/swapi.git/index.html",
+    "precache-manifest.36605976e77740526f21a7e1ece17474.js": "/swapi.git/precache-manifest.36605976e77740526f21a7e1ece17474.js",
+    "service-worker.js": "/swapi.git/service-worker.js",
+    "static/css/2.52f4adf8.chunk.css.map": "/swapi.git/static/css/2.52f4adf8.chunk.css.map",
+    "static/css/main.e5f74165.chunk.css.map": "/swapi.git/static/css/main.e5f74165.chunk.css.map",
+    "static/js/2.a54a7b66.chunk.js.LICENSE.txt": "/swapi.git/static/js/2.a54a7b66.chunk.js.LICENSE.txt",
+    "static/media/semantic.min.css": "/swapi.git/static/media/outline-icons.ef60a4f6.woff"
   },
   "entrypoints": [
-    "static/js/runtime-main.60e0a61e.js",
-    "static/css/2.6d5d4ffc.chunk.css",
+    "static/js/runtime-main.a145e514.js",
+    "static/css/2.52f4adf8.chunk.css",
     "static/js/2.a54a7b66.chunk.js",
     "static/css/main.e5f74165.chunk.css",
-    "static/js/main.44dd49d3.chunk.js"
+    "static/js/main.798c01e4.chunk.js"
   ]
 }

@@ -53,7 +53,7 @@ function App() {
             </Dimmer>
           ) : (
             <Switch>
-              <Route exact path='/swapi'>
+              <Route exact path='/'>
                 <Home />
               </Route>
               <Route exact path='/people'>
